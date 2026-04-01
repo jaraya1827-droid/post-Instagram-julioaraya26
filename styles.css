@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+}
+
+.container p{
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+.container{
+    background-color: gray;
+    margin: auto;
+    width: 500px;
+    height: auto;
+    
+}
+
+.encabezado{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: auto;
+    align-items:center;
+    padding: 10px
+    
+    
+}
+
+.titulo {
+    color: white;
+    
+}
+.logo{
+    align-items: center;
+    display: flex;
+}
+.logo i{
+    color: white;
+    font-size: 40px;
+}
+.costado{
+    margin-left: auto;
+}
+
+.contenido img{
+    width: 100%;
+    height: auto;
+    
+}
+
+.icon{
+    color: wheat;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.parrafo p{
+    margin: 5px;
+    font-family:sans-serif;
+    padding: 5px;
+    text-align: justify;
+}
+
+
